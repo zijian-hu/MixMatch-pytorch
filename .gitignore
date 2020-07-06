@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+__pycache__
+.idea/
+.vscode/
+.ipynb_checkpoints
+.cache
+.python-version
+
+# data files
+data/
+logs/
+wandb/
